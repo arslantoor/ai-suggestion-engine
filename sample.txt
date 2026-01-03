@@ -1,0 +1,593 @@
+
+ABOUT THE RESEARCH 42
+
+be a source and driver of transformational
+change across all industries. The chemical
+industry strives to be a frontrunner in managing
+digital transformation. We therefore welcome
+Accenture’s study on AI and blockchain
+technologies and the potential impact
+on the chemical industry.
+The purpose of the study is to spark ideas
+on how the chemical industry can reap
+benefits from applying both technologies
+in their business models. AI can boost the
+industry toward a higher level of efficiency.
+New data analytics including artificial
+intelligence, machine learning, and deep
+learning are expected to impact all business
+processes as they will efficiently extract
+the value from data.
+Where AI will reinvent the nature of our work,
+blockchain will impact how we interact across
+the value chain. Through blockchain, chemical
+companies can increase the transparency
+into how products are processed in each step
+down the value chain—allowing companies to
+tailor production to customers and proving the
+authenticity and circularity of their products.
+3
+Combined, both technologies present major
+opportunities for our chemical industry to
+contribute to long-term European policy goals,
+such as substantially increasing resource
+or energy efficiency and thus reducing
+carbon and other environmental footprints.
+Value chains as we know them will change
+completely: products and related processes
+become more personalized, creating and
+delivering higher value for customers through
+the empowerment of local, more specialized
+value chains. The chemical industry will
+develop new data-based business models.
+Simultaneously, products will increasingly
+incorporate digital service components,
+enabled by the abundance and growing flow
+of data, to strengthen the competitiveness
+of the entire offer.
+This study provokes new reactions to
+new technologies by giving valuable
+recommendations to our chemical industry.
+Let’s get ready to create a (block)chain reaction.
+Marco Mensink
+Director General
+CeficINTRODUCTION
+On the surface, today’s
+chemical industry looks solid,
+with peak cash and stable
+profits. Although some
+segments have performed
+better than others, in general,
+times have been good.
+new technologies, building the workforce to
+address demographic change and contending
+with ever-increasing regulatory requirements.
+Chemical companies have long relied on
+advancing technology to address challenges,
+from the robots and microprocessors of the
+1960s through the sensors, big data tools and
+cloud platforms of the last decade. (Figure 1)
+Today, the industry’s attention is turning
+to two emerging technologies: artificial
+intelligence (AI) and blockchain. Both have the
+potential to help chemical companies achieve
+step-change improvements in performance
+and value. (Figure 2) These technologies are
+likely to have an impact on the value chains
+and profit pools within those chains. But they
+could also have far-reaching implications for
+the structure of the entire industry and how
+it operates.
+The industry’s offerings continue to enable
+businesses around the world to optimize
+their performance, create new customer
+offerings and drive growth and profitability.
+That said, the industry faces challenges
+on many fronts—from shifts in feedstock
+costs to changes in customer needs and
+competitive threats from new entrants.
+These challenges are especially significant
+in areas such as the customer interface,
+safe and sustainable operations, integrating
+Figure 1: Technology evolution from mechanical to digital in process industries
+Process Industry
+• Electronic
+transmission
+to 50 MIA
+• Manual control
+1930
+• Industrial robots
+• Microprocessors
+1940
+• Manual control
+Overall Industry
+4
+• Single process
+controls
+• Sensor-based
+minicomputing
+1950
+1960
+• Magnetic tapes
+for data storage
+• Typewriters
+• Military/government/
+organizations
+computer systems
+• Process control
+systems
+• Enterprise resource
+planning (ERP)
+1970
+• Microcomputer/
+personal
+computers
+• Floppy disk
+data storage
+• Material
+requirements
+planning
+• Control loop
+optimization
+• Manufacturing
+execution systems
+• ERP system
+integration
+• Advanced
+process controls
+• ERP interfaces
+1980
+1990
+• HTML
+• Internet
+• Wifi
+• Machine learning
+and production AI
+• Machine-to-machine
+communication
+• Autonomous robots
+• Smart sensors, RFID,
+mobile & tracking
+• Predictive modelling
+• Advanced/big data
+analytics
+2000
+2010
+• Cloud/data
+platforms
+• Drones
+• Speech
+recognition
+• Mobile
+internet/apps
+• Smartphones
+• Tablets
+• Social networks
+• Smart watches
+• 3D printing
+• Advanced
+robotics
+• BlockchainDrawing on an Accenture survey of 200
+chemical industry executives from around
+the globe, this report explores the rapidly
+evolving application of these technologies
+in the industry. 1 It examines the economic
+benefits that they offer, and their broader
+impact on the way companies do business.
+The picture that emerges is one of disruption
+and shifting competitive advantage—and
+fundamental change that is coming soon.
+Industry executives need to take steps
+to understand these technologies and
+their potential impact, and develop plans for
+incorporating them into their business and
+technology strategies. This report is designed
+to provide insights that can guide those
+actions and help chemical companies
+move ahead to take advantage of AI and
+blockchain—and avoid being left behind
+in this next stage of the digital revolution.
+Figure 2: Key challenges in the chemical industry and potential applications of AI and blockchain
+Key Challenges
+Artificial Intelligence Blockchain
+Fewer injuries in production through
+early warning systems and generally
+fewer workers on site overall –
+Dynamic knowledge databases
+to ensure knowledge retention
+from an aging workforce –
+Advanced insight on competitive
+activities for effective shielding strategies Network structures creating an incentive
+to do business within an established
+network
+Raw material or energy
+analytics for efficiency increase
+in production processes Lifecycle management and traceability
+from end use back to raw material origin
+Sensing of market developments
+and customer demand pattern Demand insight through value chain
+transparency, enabling more effective
+product and service development
+Regulatory
+compliance Intelligent document structuring,
+build-up of knowledge databases
+and systematic document analysis Fraud resistant, tamper-evident
+transactions through network validations
+(e.g., instant data quality for REACH,
+product certificates, regulatory reporting)
+New offerings to
+enhance growth Pattern recognition in vast amounts
+of data (e.g., to uncover new formulations
+or applications for existing products) Platform for product co-creation
+from different players across the
+value chain
+– Transparency on material transfers, finance
+flow and inventory levels across supply chain
+(e.g., improved planning and execution,
+near real-time tracking of delivery status)
+Augmentation of human decision
+making (e.g., to increase first-time
+right in production) Elimination of middle men,
+system breaks and human intervention
+in repetitive/transactional tasks
+Automation in production, R&D
+and administration (e.g., chatbots
+in customer care centers) Automation and elimination of transactions
+through near real-time validations (e.g.,
+verifications of invoices, shipments, taxes)
+Worker safety
+Demographic
+change
+New market
+entrants/
+competitors
+Sustainability/
+resource efficiency
+Changing
+customer
+preferences
+Tracking
+value flows
+Errors in
+routine tasks
+Manual effort
+56DISRUPTION OF CHEMICAL
+BUSINESS MODELS
+THROUGH ARTIFICIAL
+INTELLIGENCE AND
+BLOCKCHAIN TECHNOLOGY
+Chemical companies’ business
+models are constructed around
+a common set of approximately
+40 building blocks.
+These support several organizational
+dimensions, which typically include product
+and service offerings, customer interactions,
+the management of assets and the supply
+chain and organizational enablers. (Figure 3)
+Figure 3: AI and blockchain have the potential to disrupt business models substantially
+Dimension
+Building blocks Configuration options
+Customer need Competitive
+addressed
+price
+OFFERING
+CUSTOMER
+INTERACTION
+7
+High
+quality
+Choice of
+configurations
+Takeover of
+value creation
+Product/process
+innovation
+Product
+offering Catalog product Service
+offering None Pricing Market-driven/index pricing Sales Fully automated
+inside sales Technical
+service None Remotely assisted and
+augmented field support Solution co-development Research and
+development None Simulation of molecule
+modification/synthesis Highly automated labs Production Continuous Campaign Batch Discrete
+Make-to-stock Make-to-forecast Make-to-order Make-to-project
+R&D, ASSETS
+Order
+AND SUPPLY
+fulfillment
+CHAIN
+MANAGEMENT
+Logistics &
+inventory
+ENABLERS
+Secured
+supply
+Product with
+configuration options
+Logistics services
+Direct to
+customer
+Technical services
+Predictive
+maintenance
+Procurement Spot purchase
+Finance No differentiating characteristics
+HR No differentiating characteristics
+Value-based
+Bypassed
+distributors
+Single echelon
+(Single-tier warehouse)
+Condition-oriented
+maintenance
+Registration/
+ESHQ service
+Co-development
+Cost-plus
+E-commerce
+Maintenance
+Product formulation
+No sales reps
+in field
+Highly automated
+key account mgmt
+Lab service
+Chemical process
+optimization/engineering
+Multi-echelon
+(Multi-tier warehouse)
+Period-based
+maintenance
+Contract agreements
+…
+Run-to-failure
+maintenanceAccenture believes that each of the building
+blocks will experience disruption from
+widespread adoption of AI and/or blockchain
+technology. Adoption of these technologies will
+fundamentally alter how chemical companies
+perform work and interact with customers.
+(Figure 4) In the near future, business models
+will focus on technology-based offerings,
+AI-enabled customer interactions, data-driven
+management of assets and the supply chain,
+and back-office processes that are automated
+as much as possible.
+For example, today’s cost-plus or
+target-price cost calculations will be
+replaced by contextual pricing based
+on foresight and market simulations driven
+by AI. Primary customer interactions will be
+based on virtual support, reducing the need
+for customer service centers and enabling
+companies to offer customers highly relevant
+products and services—and to do so more
+frequently. Chemical companies will be better
+able to predict process results based on more
+detailed specifications of input materials,
+or to bring their research and development
+(R&D) to new levels through AI-based result
+explorations. Logistics will be revolutionized
+through tamper-evident, near real-time
+tracking and freight settlement functionalities.
+And predictive maintenance will reach new
+heights through the processing of large
+volumes of data and AI-based simulations.
+With these technologies, commodity and
+specialty chemical companies alike will
+experience disruptive change in their business
+models. They will have unprecedented visibility
+into the end uses of their products and will be
+able to operate plants with drastically reduced
+levels of lost-time incidents. They will also be
+able to offer 24/7 service at zero incremental
+cost and to extract insight and value from the
+massive amounts of data being generated
+continuously. At the same time, human
+employees will be able to focus on more
+creative tasks throughout the organization—
+allowing for more innovation and driving
+additional growth.
+Figure 4: Key disruptions for chemical business model elements through AI and blockchain
+Dimension
+Characteristics Expected impact
+• Reduction in churn rate through more scalable customer
+Customer
+interaction, more frequent interaction, greater responsiveness
+need addressed
+Product
+offering
+OFFERING
+• Learning-based offering design: more tailored, differentiated
+offers, automated offering testing and campaigning
+• Greater insight into customer needs through blockchain-driven
+application transparency
+• Greater scalability of services
+Service
+offering
+• More highly customized service offerings for each customer
+• Vendor-managed inventories, logistics, recycling and disposal
+• Performance-based optimization of circular services/business
+models—e.g., chemical leasing
+• AI-powered analysis of willingness to pay, price elasticity,
+switching thresholds, etc.
+Pricing
+CUSTOMER
+INTERACTION
+• Reduced price leakage
+• Improved price synchronization vs. raw material cost and
+vs. players outside network
+• AI-based customer-specific demand sensing
+Sales
+• Automated customer inquiries (virtual assistants)
+• Automated transactional tasks and simple interactions
+• Deeper insight through mining of overall ecosystem
+Technical
+service
+8
+• Wearable devices for field support with image recognition
+• Improved understanding of end customer needsDimension
+Characteristics Expected impact
+R&D
+• Data-driven R&D, e.g., cross-BU experimentation, leverage of historic
+data, new applications for existing products, direct customer insights
+• In silico experimentation
+• Advanced lab automation
+• Improved yield and throughput through AI-based optimization
+of production
+• Reduced off-spec, changeovers, slow-downs and downtime with
+AI-based demand planning and production scheduling
+Production
+• Reduced manual material handling through intelligent automation
+• Reduced energy consumption through machine learning-based
+optimization, improved spot vs. contracting mix for energy sourcing
+• Reduced effort for decision making—e.g., AI-assisted control
+room operations
+• Automation of administrative tasks
+R&D, ASSETS
+AND SUPPLY
+CHAIN
+MANAGEMENT
+Order
+fulfillment
+• Machine learning-powered predictive models making make-to-
+stock obsolete
+• Improved demand visibility and supply capability
+• Track & trace, automated quality control, assured provenance
+• Reduced transaction cost (logistics, customs, quality, certificate
+handling, more automation, less paper)
+• Improved network and inventory optimization
+Logistics &
+inventory
+• Pre-consolidations of transports
+• Reduced warehousing demand
+• Optimized loading/unloading slot management
+• Near-real time route optimization
+• Connected plants and 3-D modeling (digital twin)
+• Real-time, remote monitoring of equipment performance
+and condition
+• Causal analytics and advanced data visualization
+Maintenance
+• Higher asset availability due to reduced unplanned downtime
+• Maximized hands-on-tool time through AI-powered work planning
+and scheduling
+• Reduced spare-part inventory and improved spare part availability
+• Reduced unplanned effort, improved prediction of high
+priority notifications
+Procurement
+• Optimized third-party spend through better scheduling and
+optimized procurement
+ENABLER
+Finance
+HR
+9
+• Lower raw material prices through higher forecast accuracy and
+AI-powered market intelligence and improved hedging of raw
+material prices
+• Reduced invoice verification through automated settlement
+• Reduced foreign exchange risk if chemical token implemented
+• Reduced employee data maintenance
+• Individualized, adaptive learning toolsAs a result of all the technological disruption,
+the typical sequence of activities from sensing
+customer demand to fulfilling an order will
+soon look very different from today. (Figure 5)
+The disruptive potential associated with
+these technologies is huge, and chemical
+companies need to rethink now how their
+organizations will operate in the near future.
+Figure 5: Disruptive change in customer demand-to-fulfillment cycle
+AI-based next best action
+for human customer interaction
+Blockchain-based demand detection
+Campaign/offering designed
+by marketing team
+Automated, blockchain-based
+settlement
+Logistical plans assisted by AI,
+material handling by robots
+AI-based synthesis and
+production in autonomous plant
+Virtual assistant-based customer service
+10
+FULFILMENT
+DIGITAL
+PLANT
+CUSTOMER
+VIRTUAL
+ASSISTANT
+Virtual assistant-executed
+positioning to customers
+Contextual quote determined by
+AI-powered pricing engine
+Virtual assistant-based order taking,
+blockchain-based contractingARTIFICIAL INTELLIGENCE
+Today, AI is already a part
+of daily life. For example,
+it is not at all unusual for
+someone to take Uber to the
+airport, using the time in the car
+to catch up on presorted e-mail
+and do some online shopping—
+arriving after a productive and
+seamless experience.
+In the not-too-distant past, that experience
+would not have been possible. Today, it is,
+because it is largely based on AI technologies.
+AI helps the person and the Uber driver to
+connect, navigate around traffic jams and find
+the best route. It prioritizes e-mail and screens
+out fraudulent messages, provides shopping
+recommendations, and even offers a selection
+of music tailored to the rider’s tastes. And
+AI-enabled autonomous vehicles are on the
+verge of being approved for widespread
+use on public roads—which means that
+the car soon may have no driver.
+AI is a group of technologies that includes
+machine learning, computer vision and
+speech recognition, and it is at the core of
+tools such as predictive analytics, advanced
+process automation, robotics and mechanical
+automation, among many others. AI has quickly
+become relevant in private life and business-to-
+consumer (B2C) contexts, and it will soon have
+a tremendous impact on the chemical industry.
+AI has the potential to disrupt business
+operations by helping companies to:
+• Make more informed decisions.
+• Make better use of existing data.
+• Develop new insights from large amounts
+of data that would overwhelm humans.
+11
+• Accelerate learning.
+• Automate repetitive, transactional
+and judgment-related tasks.
+• Reduce human involvement in physical tasks.
+• Create new services and offerings.
+Two recent examples show just how far
+one type of AI—natural language recognition
+and generation—have evolved. In recent years,
+a university used IBM technology to create
+“Jill Watson,” an AI-based teaching assistant
+that replied to students’ e-mails, 2 and the
+Google Duplex AI system, which successfully
+reserved a restaurant table by phone. 3 In both
+cases, the people on the receiving end were
+unable to detect that they were conversing
+with a robot.
+In a business context, AI is used to handle
+routine, rules-based and increasingly complex
+tasks, such as capital market investment
+management, even if there are multiple and
+varying factors and sentiments to consider.
+AI does this so well that 56 percent of hedge
+funds base their investment decisions on AI and
+machine learning, and more than a quarter use
+AI to execute transactions autonomously. 4
+
+In general, today’s AI technologies can be grouped into three categories categories logistics detailed
+Lorem Ipsum is a type of placeholder text commonly used in the design and publishing industries. It has been the industry's standard dummy text since the 1500s, derived from a Latin text by the Roman philosopher Cicero. It serves to fill a space on a page and give an impression of how the final content will look. The text is often used to demonstrate the visual form of a document without relying on meaningful content
+
+
+
